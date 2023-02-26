@@ -59,6 +59,8 @@ const Update = ({ setOpenUpdate, user }) => {
     setOpenUpdate(false);
     setCover(null);
     setProfile(null);
+  }
+    
 
   return (
     <div className="update">
